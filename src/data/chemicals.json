@@ -1,0 +1,155 @@
+
+[
+  {
+    "id": "chem-001",
+    "title": "Chlorine Tablets 20g",
+    "slug": "chlorine-tablets-20g",
+    "category": "Sanitizers",
+    "form": "Tablet",
+    "brand": "AquaPure",
+    "shortDesc": "Premium slow-dissolving chlorine tablets for consistent sanitization",
+    "longDesc": "Our premium 20g chlorine tablets provide long-lasting, consistent sanitization for your hot tub or swim spa. Slow-dissolving formula ensures stable chlorine levels with minimal maintenance. Each tablet is individually wrapped for freshness and safety.",
+    "price": 34.99,
+    "compareAt": 44.99,
+    "sku": "CHEM-CLR-20G-5KG",
+    "stock": 45,
+    "images": [
+      "Chlorine tablets in premium packaging with safety labels",
+      "Close-up of individual wrapped chlorine tablets"
+    ],
+    "usage": "Add 1-2 tablets per week to floating dispenser. Test water daily and adjust as needed. Ideal chlorine level: 3-5 ppm.",
+    "safetyNotes": "Store in cool, dry place away from direct sunlight. Keep out of reach of children. Wear gloves when handling. Do not mix with other chemicals.",
+    "relatedIds": ["chem-002", "chem-004"],
+    "badges": ["Best Seller", "Premium Quality"],
+    "seo": {
+      "metaTitle": "Premium Chlorine Tablets 20g | Lux Hydro Living",
+      "metaDescription": "Long-lasting chlorine tablets for hot tubs and swim spas. Premium quality, slow-dissolving formula for consistent sanitization."
+    }
+  },
+  {
+    "id": "chem-002",
+    "title": "pH Minus Liquid",
+    "slug": "ph-minus-liquid",
+    "category": "Balancers",
+    "form": "Liquid",
+    "brand": "AquaPure",
+    "shortDesc": "Fast-acting liquid pH reducer for optimal water balance",
+    "longDesc": "Professional-grade liquid pH reducer that works quickly to lower pH and total alkalinity. Easy-to-use formula with precise dosing cap. Essential for maintaining comfortable, safe water conditions and protecting your spa equipment.",
+    "price": 18.99,
+    "sku": "CHEM-PHM-LIQ-2L",
+    "stock": 62,
+    "images": [
+      "pH Minus liquid bottle with measuring cap",
+      "Product being poured into hot tub water"
+    ],
+    "usage": "Add 50ml per 1000 litres to reduce pH by 0.2. Wait 30 minutes and retest. Ideal pH range: 7.2-7.6.",
+    "safetyNotes": "Corrosive liquid. Wear protective gloves and eyewear. Do not mix with other chemicals. Store upright in original container.",
+    "relatedIds": ["chem-003", "chem-004"],
+    "badges": ["Fast Acting"],
+    "seo": {
+      "metaTitle": "pH Minus Liquid - Fast Acting pH Reducer | Lux Hydro Living",
+      "metaDescription": "Professional pH reducer for hot tubs and swim spas. Fast-acting liquid formula for precise water balance control."
+    }
+  },
+  {
+    "id": "chem-003",
+    "title": "Algaecide Premium",
+    "slug": "algaecide-premium",
+    "category": "Treatments",
+    "form": "Liquid",
+    "brand": "CrystalClear",
+    "shortDesc": "Advanced algae prevention and treatment formula",
+    "longDesc": "Our premium algaecide provides powerful protection against all types of algae growth. Non-foaming formula is safe for all spa surfaces and won't affect water clarity. Prevents green, yellow, and black algae while being gentle on skin.",
+    "price": 24.99,
+    "sku": "CHEM-ALG-PREM-1L",
+    "stock": 38,
+    "images": [
+      "Algaecide premium bottle with crystal clear water background",
+      "Before and after comparison of treated water"
+    ],
+    "usage": "Initial dose: 100ml per 1000 litres. Maintenance: 25ml per 1000 litres weekly. Pour directly into water with circulation running.",
+    "safetyNotes": "Keep out of reach of children. Avoid contact with eyes and skin. Store in cool, dry place. Do not freeze.",
+    "relatedIds": ["chem-001", "chem-005"],
+    "badges": ["Premium Formula"],
+    "seo": {
+      "metaTitle": "Premium Algaecide for Hot Tubs & Swim Spas | Lux Hydro Living",
+      "metaDescription": "Advanced algae prevention and treatment. Non-foaming formula safe for all spa surfaces. Crystal clear water guaranteed."
+    }
+  },
+  {
+    "id": "chem-004",
+    "title": "Test Strips 6-in-1",
+    "slug": "test-strips-6-in-1",
+    "category": "Testing",
+    "form": "Strips",
+    "brand": "AquaTest",
+    "shortDesc": "Professional 6-parameter water testing strips",
+    "longDesc": "Comprehensive water testing made easy. Each strip tests for chlorine, pH, total alkalinity, total hardness, cyanuric acid, and bromine. Get accurate results in just 15 seconds. Includes 50 strips with color-coded chart for easy reading.",
+    "price": 16.99,
+    "sku": "CHEM-TEST-6IN1-50",
+    "stock": 89,
+    "images": [
+      "Test strips container with sample strip showing color indicators",
+      "Hand holding test strip next to color chart"
+    ],
+    "usage": "Dip strip in water for 2 seconds. Remove and shake once. Wait 15 seconds and compare to color chart. Test 2-3 times per week.",
+    "safetyNotes": "Store in cool, dry place with lid tightly closed. Do not touch test pads. Use within 6 months of opening.",
+    "relatedIds": ["chem-001", "chem-002"],
+    "badges": ["Essential", "Best Value"],
+    "seo": {
+      "metaTitle": "6-in-1 Water Test Strips for Spas | Lux Hydro Living",
+      "metaDescription": "Professional water testing strips. Test 6 parameters in 15 seconds. Essential for maintaining perfect water balance."
+    }
+  },
+  {
+    "id": "chem-005",
+    "title": "Spa Fragrance Oil - Lavender",
+    "slug": "spa-fragrance-lavender",
+    "category": "Aromatherapy",
+    "form": "Liquid",
+    "brand": "SpaScents",
+    "shortDesc": "Premium lavender aromatherapy oil for ultimate relaxation",
+    "longDesc": "Transform your spa experience with our premium lavender fragrance oil. Specially formulated for hot tubs and swim spas, this oil-free formula won't affect water chemistry or damage equipment. Creates a calming, spa-like atmosphere.",
+    "price": 12.99,
+    "sku": "CHEM-FRAG-LAV-250ML",
+    "stock": 54,
+    "images": [
+      "Lavender spa fragrance bottle with lavender flowers",
+      "Fragrance being added to steaming hot tub"
+    ],
+    "usage": "Add 1-2 capfuls directly to spa water. Safe for use with all sanitizers. Reapply as desired for continuous aromatherapy benefits.",
+    "safetyNotes": "For external use only. Avoid contact with eyes. Keep out of reach of children. Store away from direct sunlight.",
+    "relatedIds": ["chem-006"],
+    "badges": ["Aromatherapy", "Popular"],
+    "seo": {
+      "metaTitle": "Lavender Spa Fragrance Oil - Aromatherapy | Lux Hydro Living",
+      "metaDescription": "Premium lavender aromatherapy oil for hot tubs. Oil-free formula safe for all spas. Create the ultimate relaxation experience."
+    }
+  },
+  {
+    "id": "chem-006",
+    "title": "Spa Fragrance Oil - Eucalyptus",
+    "slug": "spa-fragrance-eucalyptus",
+    "category": "Aromatherapy",
+    "form": "Liquid",
+    "brand": "SpaScents",
+    "shortDesc": "Refreshing eucalyptus aromatherapy oil for invigoration",
+    "longDesc": "Energize your spa sessions with our invigorating eucalyptus fragrance oil. This spa-safe formula provides a refreshing, spa-quality experience without affecting water balance. Perfect for post-workout relaxation and respiratory wellness.",
+    "price": 12.99,
+    "sku": "CHEM-FRAG-EUC-250ML",
+    "stock": 47,
+    "images": [
+      "Eucalyptus spa fragrance bottle with eucalyptus leaves",
+      "Steam rising from hot tub with eucalyptus scent"
+    ],
+    "usage": "Add 1-2 capfuls to spa water for refreshing aromatherapy. Compatible with all water care systems. Reapply as needed.",
+    "safetyNotes": "External use only. Avoid eye contact. Keep away from children. Do not ingest. Store in cool place.",
+    "relatedIds": ["chem-005"],
+    "badges": ["Aromatherapy"],
+    "seo": {
+      "metaTitle": "Eucalyptus Spa Fragrance Oil - Aromatherapy | Lux Hydro Living",
+      "metaDescription": "Refreshing eucalyptus aromatherapy oil for spas. Invigorating scent perfect for post-workout relaxation. Spa-safe formula."
+    }
+  }
+]
+  

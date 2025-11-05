@@ -1,0 +1,76 @@
+
+[
+  {
+    "id": 1,
+    "title": "Contemporary Garden Oasis",
+    "location": "Hampstead, London",
+    "category": "Hot Tub",
+    "product": "Eden Hot Tub",
+    "description": "A stunning transformation of a traditional garden into a modern wellness retreat. The Eden hot tub seamlessly integrates with contemporary landscaping and outdoor lighting.",
+    "beforeImage": "Traditional garden before hot tub installation",
+    "afterImage": "Modern luxury garden with Eden hot tub and ambient lighting at dusk",
+    "features": [
+      "Custom decking and steps",
+      "Integrated LED lighting system",
+      "Privacy screening with planters",
+      "Automated cover system"
+    ],
+    "testimonial": "The team transformed our vision into reality. The attention to detail is exceptional.",
+    "client": "Mr. & Mrs. Harrison"
+  },
+  {
+    "id": 2,
+    "title": "Boutique Hotel Spa Suite",
+    "location": "Cotswolds, UK",
+    "category": "Swim Spa",
+    "product": "Cascade Swim Spa",
+    "description": "A luxury boutique hotel commissioned a private spa suite featuring our Cascade swim spa. The installation includes a dedicated wellness area with sauna and relaxation zone.",
+    "beforeImage": "Empty hotel courtyard space",
+    "afterImage": "Luxurious hotel spa suite with swim spa and modern architecture",
+    "features": [
+      "Commercial-grade installation",
+      "Dual-zone climate control",
+      "Premium sound system",
+      "Automated water management"
+    ],
+    "testimonial": "Our guests are absolutely delighted. It's become our signature feature.",
+    "client": "The Meadow House Hotel"
+  },
+  {
+    "id": 3,
+    "title": "Rooftop Wellness Sanctuary",
+    "location": "Manchester City Centre",
+    "category": "Hot Tub & Sauna",
+    "product": "Calma Hot Tub + Zenith Sauna",
+    "description": "An innovative rooftop installation combining hot tub and sauna with panoramic city views. Structural engineering and weatherproofing created a year-round wellness space.",
+    "beforeImage": "Unused rooftop terrace",
+    "afterImage": "Stunning rooftop spa with hot tub, sauna and city skyline views",
+    "features": [
+      "Structural reinforcement",
+      "Wind-resistant design",
+      "Smart climate control",
+      "Panoramic glass barriers"
+    ],
+    "testimonial": "Absolutely worth the investment. Our private urban retreat.",
+    "client": "Penthouse Resident"
+  },
+  {
+    "id": 4,
+    "title": "Coastal Retreat Installation",
+    "location": "Cornwall Coast",
+    "category": "Swim Spa",
+    "product": "Aspen Swim Spa",
+    "description": "A coastal property installation featuring the Aspen swim spa with ocean views. Special corrosion-resistant treatments and wind protection ensure longevity in the marine environment.",
+    "beforeImage": "Coastal garden with basic patio",
+    "afterImage": "Luxury coastal spa installation with ocean views and modern landscaping",
+    "features": [
+      "Marine-grade corrosion protection",
+      "Wind-resistant enclosure",
+      "Saltwater-compatible systems",
+      "Heated changing area"
+    ],
+    "testimonial": "Swimming with ocean views is pure magic. Exceptional quality and service.",
+    "client": "Coastal Villa Owner"
+  }
+]
+  

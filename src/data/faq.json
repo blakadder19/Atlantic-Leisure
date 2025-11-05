@@ -1,0 +1,84 @@
+
+[
+  {
+    "category": "Pre-Sale",
+    "questions": [
+      {
+        "question": "What's the difference between a hot tub and a swim spa?",
+        "answer": "Hot tubs are designed primarily for relaxation and hydrotherapy, with seating for multiple people and powerful massage jets. Swim spas are longer units that combine a current system for swimming and exercise with a hydrotherapy zone, offering both fitness and relaxation in one product."
+      },
+      {
+        "question": "How much does it cost to run a hot tub?",
+        "answer": "Running costs vary based on usage, climate, and model. Our energy-efficient hot tubs typically cost £30-50 per month to run. All our models feature advanced insulation and efficient heating systems to minimize energy consumption."
+      },
+      {
+        "question": "Can I visit your showroom?",
+        "answer": "Absolutely! We encourage showroom visits so you can experience our products firsthand. Book an appointment through our website or call us directly. Our expert team will guide you through our range and answer all your questions."
+      },
+      {
+        "question": "Do you offer financing options?",
+        "answer": "Yes, we offer flexible financing solutions to make your dream spa more accessible. Contact our team to discuss available options and find a plan that suits your budget."
+      }
+    ]
+  },
+  {
+    "category": "Installation",
+    "questions": [
+      {
+        "question": "How long does installation take?",
+        "answer": "Most installations are completed in one day. Our professional team handles everything from delivery to setup, electrical connections, and water filling. We'll also provide a comprehensive handover and training session."
+      },
+      {
+        "question": "What site preparation is required?",
+        "answer": "You'll need a level, stable base (concrete pad or reinforced decking), adequate drainage, and access to electrical supply. We provide detailed site preparation guidelines and can arrange a pre-installation survey to ensure everything is ready."
+      },
+      {
+        "question": "Do I need special electrical work?",
+        "answer": "Most of our models require a dedicated electrical circuit. We work with certified electricians and can arrange this as part of your installation package. All electrical work complies with UK regulations."
+      },
+      {
+        "question": "What about access to my garden?",
+        "answer": "We need a minimum access width of 90cm for most models. During your site survey, we'll assess access routes and discuss any potential challenges. Our experienced team has successfully installed in challenging locations."
+      }
+    ]
+  },
+  {
+    "category": "Maintenance",
+    "questions": [
+      {
+        "question": "How often should I change the water?",
+        "answer": "We recommend changing your spa water every 3-4 months with regular use. Our maintenance plans include water changes and full system checks to keep your spa in optimal condition."
+      },
+      {
+        "question": "What chemicals do I need?",
+        "answer": "Basic water care requires sanitizer (chlorine or bromine), pH balancer, and occasional shock treatment. We stock a complete range of premium chemicals and can provide personalized water care guidance."
+      },
+      {
+        "question": "How do I clean the filters?",
+        "answer": "Rinse filters weekly with a hose and deep clean monthly using filter cleaner. Replace filters annually. We supply all necessary cleaning products and replacement filters."
+      },
+      {
+        "question": "Do you offer maintenance services?",
+        "answer": "Yes! Our comprehensive maintenance plans include regular servicing, water testing, chemical balancing, and filter changes. Choose from quarterly, bi-annual, or annual service packages."
+      }
+    ]
+  },
+  {
+    "category": "Warranty",
+    "questions": [
+      {
+        "question": "What warranty do you offer?",
+        "answer": "All our products come with comprehensive warranties: lifetime structural warranty, 5-year shell warranty, 3-year equipment warranty, and 2-year parts warranty. Extended warranty options are available."
+      },
+      {
+        "question": "What does the warranty cover?",
+        "answer": "Our warranty covers manufacturing defects, structural integrity, shell surface, and equipment failures. Normal wear and tear, chemical damage, and misuse are not covered. Full terms are provided with purchase."
+      },
+      {
+        "question": "How do I make a warranty claim?",
+        "answer": "Contact our customer service team with your product details and issue description. We'll arrange an inspection and, if covered, organize repair or replacement. Most warranty work is completed within 7-10 days."
+      }
+    ]
+  }
+]
+  

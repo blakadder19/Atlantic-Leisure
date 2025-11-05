@@ -1,0 +1,44 @@
+
+{
+  "brandName": "Lux Hydro Living",
+  "tagline": "Premium Spas & Wellness",
+  "phone": "+44 20 1234 5678",
+  "email": "info@luxhydroliving.com",
+  "whatsapp": "+442012345678",
+  "whatsappMessage": "Hello! I'm interested in your luxury spa products.",
+  "address": {
+    "street": "123 Luxury Lane",
+    "city": "London",
+    "postcode": "SW1A 1AA",
+    "country": "United Kingdom"
+  },
+  "showroomHours": {
+    "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "saturday": "Saturday: 10:00 AM - 5:00 PM",
+    "sunday": "Sunday: Closed"
+  },
+  "social": {
+    "facebook": "https://facebook.com/luxhydroliving",
+    "instagram": "https://instagram.com/luxhydroliving",
+    "twitter": "https://twitter.com/luxhydroliving",
+    "linkedin": "https://linkedin.com/company/luxhydroliving"
+  },
+  "gtmId": "GTM-XXXXXXX",
+  "stripePublicKey": "pk_test_XXXXXXXXXXXXXXXXXXXXXXXX",
+  "currency": "GBP",
+  "currencySymbol": "£",
+  "shipping": {
+    "flatRate": 15.00,
+    "freeThreshold": 100.00
+  },
+  "tax": {
+    "vat": 20,
+    "enabled": true
+  },
+  "consent": {
+    "essential": true,
+    "analytics": false,
+    "marketing": false
+  }
+}
+  

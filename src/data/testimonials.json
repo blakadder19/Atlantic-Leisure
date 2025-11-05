@@ -1,0 +1,54 @@
+
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "location": "Surrey, UK",
+    "rating": 5,
+    "text": "Absolutely exceptional service from start to finish. Our Eden hot tub has transformed our garden into a luxury retreat. The installation team was professional and the after-sales support is outstanding.",
+    "product": "Eden Hot Tub",
+    "date": "2024-09-15",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "James Robertson",
+    "location": "Edinburgh, Scotland",
+    "rating": 5,
+    "text": "The Cascade swim spa exceeded all expectations. Perfect for my daily training routine and the family loves the hydrotherapy zone. Best investment we've made for our home.",
+    "product": "Cascade Swim Spa",
+    "date": "2024-08-22",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "Emma Thompson",
+    "location": "Manchester, UK",
+    "rating": 5,
+    "text": "Our Zenith sauna is simply stunning. The build quality is exceptional and the chromotherapy lighting creates the perfect ambiance. Highly recommend Lux Hydro Living!",
+    "product": "Zenith Sauna",
+    "date": "2024-10-03",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "David Chen",
+    "location": "London, UK",
+    "rating": 5,
+    "text": "From showroom visit to installation, everything was seamless. The team helped us choose the perfect Calma hot tub for our space. The smart controls and app integration are brilliant.",
+    "product": "Calma Hot Tub",
+    "date": "2024-07-18",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "Lisa Anderson",
+    "location": "Bristol, UK",
+    "rating": 5,
+    "text": "The quality and attention to detail is remarkable. Our Brook hot tub looks stunning and the hydrotherapy jets are incredibly effective. Worth every penny!",
+    "product": "Brook Hot Tub",
+    "date": "2024-09-30",
+    "verified": true
+  }
+]
+  

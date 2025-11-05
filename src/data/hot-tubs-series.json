@@ -1,0 +1,535 @@
+[
+  {
+    "id": "series-one",
+    "name": "AquaPure Series One",
+    "tagline": "Essential Luxury",
+    "slug": "series-one",
+    "description": "Our Series One collection offers the perfect introduction to premium hydrotherapy. Compact yet powerful, these hot tubs deliver exceptional performance with elegant design.",
+    "priceRange": "£5,995 - £8,495",
+    "heroImage": "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Brook - Mock Up (AI Gen)/Brook _Quarter View Mock Up (AI Gen) - RGB.jpg",
+    "features": [
+      "Premium acrylic shell with 10-year warranty",
+      "Energy-efficient heating system",
+      "LED mood lighting",
+      "Built-in aromatherapy dispenser",
+      "Smart temperature control",
+      "Compact design perfect for smaller gardens"
+    ],
+    "idealFor": [
+      "Couples and small families",
+      "Intimate relaxation",
+      "Smaller outdoor spaces",
+      "First-time hot tub owners"
+    ],
+    "models": [
+      {
+        "id": "brook",
+        "name": "Brook",
+        "slug": "brook",
+        "tagline": "Intimate Luxury",
+        "capacity": 4,
+        "jets": 25,
+        "power": "32 amp",
+        "dimensions": "2.1m x 2.1m x 0.9m",
+        "waterCapacity": "1,200L",
+        "dryWeight": "285kg",
+        "features": [
+          "25 precision hydrotherapy jets",
+          "Multi-zone massage therapy",
+          "Ergonomic seating for 4 adults",
+          "LED lighting system with 7 color options",
+          "Bluetooth audio system",
+          "Ozone water purification",
+          "Insulated cover included"
+        ],
+        "highlights": [
+          "Perfect for couples",
+          "Energy Star certified",
+          "Quick 220V plug & play option",
+          "Low maintenance design"
+        ],
+        "price": 6495,
+        "compareAt": 7495,
+        "images": [
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Brook - Mock Up (AI Gen)/Brook _Quarter View Mock Up (AI Gen) - RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Brook - Mock Up (AI Gen)/Brook _Overhead (Close Up).jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Brook - Mock Up (AI Gen)/Brook _Details Close Up.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Brook - Mock Up (AI Gen)/Brook _Quarter View (Close Up).jpg"
+        ]
+      },
+      {
+        "id": "cove",
+        "name": "Cove",
+        "slug": "cove",
+        "tagline": "Compact Comfort",
+        "capacity": 5,
+        "jets": 28,
+        "power": "32 amp",
+        "dimensions": "2.0m x 2.0m x 0.88m",
+        "waterCapacity": "1,100L",
+        "dryWeight": "265kg",
+        "features": [
+          "28 targeted hydrotherapy jets",
+          "Corner-optimized design",
+          "Ambient LED lighting",
+          "Digital control panel",
+          "EcoSmart heating",
+          "UV sanitization system",
+          "Ergonomic seating"
+        ],
+        "highlights": [
+          "Space-efficient design",
+          "Perfect for patios",
+          "Easy maintenance",
+          "Great value"
+        ],
+        "price": 5995,
+        "compareAt": 6995,
+        "images": [
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cove - Mock Up (AI Gen)/Cove Quarter View (Ai Gen) - RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cove - Mock Up (AI Gen)/Cove Overhead View (Ai Gen) RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cove - Mock Up (AI Gen)/Cove Corner With Control Panel.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cove - Mock Up (AI Gen)/Cove Inside Corner View.jpg"
+        ]
+      },
+      {
+        "id": "cypress",
+        "name": "Cypress",
+        "slug": "cypress",
+        "tagline": "Premium Compact",
+        "capacity": 6,
+        "jets": 32,
+        "power": "32 amp",
+        "dimensions": "2.2m x 2.2m x 0.92m",
+        "waterCapacity": "1,350L",
+        "dryWeight": "305kg",
+        "features": [
+          "32 premium hydrotherapy jets",
+          "Advanced filtration system",
+          "Multi-color LED lighting",
+          "Bluetooth audio system",
+          "Digital controls with presets",
+          "Waterfall feature",
+          "Energy-efficient insulation"
+        ],
+        "highlights": [
+          "Best seller in Series One",
+          "Perfect family size",
+          "Excellent energy efficiency",
+          "Quick delivery"
+        ],
+        "price": 7495,
+        "compareAt": 8495,
+        "images": [
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cypress -  Mock Up (AI Gen)/Cypress Quarter View (AI Gen) - new side panels - RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cypress -  Mock Up (AI Gen)/Cypress Overhead View (AI Gen) RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cypress -  Mock Up (AI Gen)/Cypress Corner View With Controls.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Cypress -  Mock Up (AI Gen)/Cypress Inside Corner View.jpg"
+        ]
+      },
+      {
+        "id": "zephyr",
+        "name": "Zephyr",
+        "slug": "zephyr",
+        "tagline": "Ultimate Series One",
+        "capacity": 6,
+        "jets": 35,
+        "power": "40 amp",
+        "dimensions": "2.3m x 2.3m x 0.95m",
+        "waterCapacity": "1,450L",
+        "dryWeight": "325kg",
+        "features": [
+          "35 precision-engineered jets",
+          "Dual-pump system",
+          "Premium audio with subwoofer",
+          "Full LED perimeter lighting",
+          "Touchscreen controls",
+          "Advanced ozone purification",
+          "Cascade waterfall"
+        ],
+        "highlights": [
+          "Top of Series One range",
+          "Maximum hydrotherapy",
+          "Premium features",
+          "Professional grade"
+        ],
+        "price": 8495,
+        "compareAt": 9495,
+        "images": [
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Zephyr - Mock Up (AI Gen)/Zephyr   Quarter View Mock Up (AI Gen) - RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Zephyr - Mock Up (AI Gen)/Zephyr   Overhead View Mock Up (AI Gen) RGB.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Zephyr - Mock Up (AI Gen)/Zephyr  _Inside Tub View.jpg",
+          "/images/products/hot-tubs/AquaPure - Series One - AI Mock Up/Zephyr - Mock Up (AI Gen)/Zephyr   Filter Housing.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "series-two",
+    "name": "NaturaBalance Series Two",
+    "tagline": "Premium Performance",
+    "slug": "series-two",
+    "description": "Series Two delivers the ultimate balance of space, power, and luxury. Featuring advanced hydrotherapy systems and premium finishes, these models are perfect for families and entertainers.",
+    "priceRange": "£8,995 - £12,995",
+    "heroImage": "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Aspen - Mock Up (AI Gen)/Aspen - Mock Up (AI Gen)_new sides - RGB.jpg",
+    "features": [
+      "Advanced hydrotherapy with up to 45 jets",
+      "Multi-zone temperature control",
+      "Premium audio system with subwoofer",
+      "Full-spectrum LED lighting",
+      "Wi-Fi enabled smart controls",
+      "Lifetime structural warranty"
+    ],
+    "idealFor": [
+      "Families of 4-7 people",
+      "Regular entertainers",
+      "Serious hydrotherapy users",
+      "Medium to large gardens"
+    ],
+    "models": [
+      {
+        "id": "aspen",
+        "name": "Aspen",
+        "slug": "aspen",
+        "tagline": "Natural Elegance",
+        "capacity": 6,
+        "jets": 38,
+        "power": "32 amp",
+        "dimensions": "2.2m x 2.2m x 0.95m",
+        "waterCapacity": "1,550L",
+        "dryWeight": "375kg",
+        "features": [
+          "38 premium stainless steel jets",
+          "Waterfall feature",
+          "Natural wood-effect cabinet",
+          "Full-perimeter LED lighting",
+          "Premium Bluetooth audio",
+          "Touchscreen control panel",
+          "EcoPure filtration",
+          "Thermal locking cover"
+        ],
+        "highlights": [
+          "Natural aesthetic",
+          "Waterfall therapy",
+          "Energy efficient",
+          "Award-winning design"
+        ],
+        "price": 10495,
+        "compareAt": 11995,
+        "images": [
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Aspen - Mock Up (AI Gen)/Aspen - Mock Up (AI Gen)_new sides - RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Aspen - Mock Up (AI Gen)/Aspen Overhead_AI Gen RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Aspen - Mock Up (AI Gen)/Aspen_Waterfall RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Aspen - Mock Up (AI Gen)/Aspen Overhead Close Up Corner RGB.jpg"
+        ]
+      },
+      {
+        "id": "calma",
+        "name": "Calma",
+        "slug": "calma",
+        "tagline": "Serene Sophistication",
+        "capacity": 7,
+        "jets": 40,
+        "power": "32 amp",
+        "dimensions": "2.3m x 2.3m x 0.95m",
+        "waterCapacity": "1,600L",
+        "dryWeight": "385kg",
+        "features": [
+          "40 precision hydrotherapy jets",
+          "Captain's chair with neck massage",
+          "Cool-down seat",
+          "Multi-zone LED lighting",
+          "Premium audio with 4 speakers",
+          "Wi-Fi enabled controls",
+          "Advanced ozone system",
+          "Insulated cover with lifter"
+        ],
+        "highlights": [
+          "Best seller",
+          "Perfect family size",
+          "Low running costs",
+          "SmartHeat technology"
+        ],
+        "price": 9995,
+        "compareAt": 11495,
+        "images": [
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Calma - Mock Up (AI Gen)/Calma_Quarter View (AI Gen) - RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Calma - Mock Up (AI Gen)/Calma_Overhead (AI Gen) RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Calma - Mock Up (AI Gen)/Calma_Filter Housing.jpg"
+        ]
+      },
+      {
+        "id": "eden",
+        "name": "Eden",
+        "slug": "eden",
+        "tagline": "Therapeutic Excellence",
+        "capacity": 6,
+        "jets": 42,
+        "power": "40 amp",
+        "dimensions": "2.2m x 2.2m x 1.0m",
+        "waterCapacity": "1,500L",
+        "dryWeight": "420kg",
+        "features": [
+          "42 targeted therapy jets",
+          "Dual-pump hydrotherapy system",
+          "Lounger seat with full-body massage",
+          "Chromotherapy lighting (16 colors)",
+          "Premium JBL audio system",
+          "Wi-Fi and app control",
+          "Ozone + UV water care",
+          "Cascade waterfall"
+        ],
+        "highlights": [
+          "Maximum hydrotherapy power",
+          "Therapeutic grade massage",
+          "Smart home integration",
+          "Professional spa experience"
+        ],
+        "price": 11995,
+        "compareAt": 13495,
+        "images": [
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Eden - Mock Up (AI Gen)/Eden_Quarter View (AI Gen)_new sides - RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Eden - Mock Up (AI Gen)/Eden_Overhead View (AI Gen) RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Eden - Mock Up (AI Gen)/Eden_Filter Houseing RGB.jpg"
+        ]
+      },
+      {
+        "id": "harmony",
+        "name": "Harmony",
+        "slug": "harmony",
+        "tagline": "Balanced Perfection",
+        "capacity": 5,
+        "jets": 35,
+        "power": "32 amp",
+        "dimensions": "2.1m x 2.1m x 0.92m",
+        "waterCapacity": "1,350L",
+        "dryWeight": "360kg",
+        "features": [
+          "35 precision-engineered jets",
+          "Balanced seating layout",
+          "Premium composite cabinet",
+          "Underwater LED lighting",
+          "Bluetooth audio system",
+          "Digital touchscreen controls",
+          "EcoPure filtration",
+          "Energy-efficient design"
+        ],
+        "highlights": [
+          "Excellent value",
+          "Versatile seating",
+          "Low maintenance",
+          "Quick delivery available"
+        ],
+        "price": 8995,
+        "compareAt": 10495,
+        "images": [
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Harmony - Mock Up (AI Gen)/Harmony_Quarter View2 (AI Gen) - RGB.jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Harmony - Mock Up (AI Gen)/Harmony_Overhead (AI Gen) RGB.jpg"
+        ]
+      },
+      {
+        "id": "sierra",
+        "name": "Sierra",
+        "slug": "sierra",
+        "tagline": "Mountain Inspired",
+        "capacity": 7,
+        "jets": 45,
+        "power": "40 amp",
+        "dimensions": "2.4m x 2.4m x 0.98m",
+        "waterCapacity": "1,750L",
+        "dryWeight": "410kg",
+        "features": [
+          "45 premium hydrotherapy jets",
+          "Triple-zone massage system",
+          "Two lounger seats",
+          "Premium wood-effect cabinet",
+          "Full LED lighting system",
+          "Wi-Fi enabled controls",
+          "Advanced filtration",
+          "Waterfall feature"
+        ],
+        "highlights": [
+          "Top of Series Two range",
+          "Maximum capacity",
+          "Premium finishes",
+          "Entertainment focused"
+        ],
+        "price": 12995,
+        "compareAt": 14495,
+        "images": [
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Sierra - Mock Up (AI Gen)/Sierra_Quarter View (AI Gen).jpg",
+          "/images/products/hot-tubs/NaturaBalance - Series Two - AI Mock Up/Sierra - Mock Up (AI Gen)/Sierra_Overhead (AI Gen).jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "series-three",
+    "name": "AquaLux Series Three",
+    "tagline": "Ultimate Luxury",
+    "slug": "series-three",
+    "description": "The pinnacle of hot tub engineering. Series Three models feature cutting-edge technology, bespoke customization options, and the finest materials. These are the hot tubs that redefine luxury.",
+    "priceRange": "£14,995 - £24,995",
+    "heroImage": "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Zenith/Zenith - Overhead View (AI Gen).jpg",
+    "features": [
+      "Bespoke customization available",
+      "Premium ceramic heating elements",
+      "Professional-grade hydrotherapy",
+      "Integrated climate control",
+      "Premium materials and finishes",
+      "Concierge installation service"
+    ],
+    "idealFor": [
+      "Luxury homeowners",
+      "Therapeutic treatment",
+      "Entertainment spaces",
+      "No compromise on quality"
+    ],
+    "models": [
+      {
+        "id": "zenith",
+        "name": "Zenith",
+        "slug": "zenith",
+        "tagline": "The Flagship",
+        "capacity": 8,
+        "jets": 56,
+        "power": "40 amp",
+        "dimensions": "2.5m x 2.5m x 1.05m",
+        "waterCapacity": "2,100L",
+        "dryWeight": "520kg",
+        "features": [
+          "56 precision hydrotherapy jets",
+          "Triple-pump system for maximum power",
+          "Two full-length loungers",
+          "Premium Bose audio system",
+          "Chromotherapy with 64 color options",
+          "Aromatherapy integration",
+          "Wi-Fi, app, and voice control",
+          "Salt water compatible",
+          "Integrated ice bucket and cup holders",
+          "Premium wood-effect cabinet"
+        ],
+        "highlights": [
+          "Our flagship model",
+          "Professional spa experience",
+          "Customizable features",
+          "5-star luxury"
+        ],
+        "price": 18995,
+        "compareAt": 21995,
+        "images": [
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Zenith/Zenith - Quarter View (AI Gen).jpg",
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Zenith/Zenith - Overhead View (AI Gen).jpg"
+        ]
+      },
+      {
+        "id": "cascade",
+        "name": "Cascade",
+        "slug": "cascade",
+        "tagline": "Flowing Elegance",
+        "capacity": 7,
+        "jets": 48,
+        "power": "40 amp",
+        "dimensions": "2.4m x 2.4m x 1.0m",
+        "waterCapacity": "1,900L",
+        "dryWeight": "485kg",
+        "features": [
+          "48 therapeutic massage jets",
+          "Multi-level cascade waterfall",
+          "Premium leather-look headrests",
+          "Harman Kardon audio system",
+          "Full LED perimeter lighting",
+          "Smart climate control",
+          "Touchscreen controls with presets",
+          "Advanced ozone purification",
+          "Heated seating",
+          "Premium cabinet finishes"
+        ],
+        "highlights": [
+          "Signature waterfall feature",
+          "Architectural statement piece",
+          "Ultra-low maintenance",
+          "Whisper-quiet operation"
+        ],
+        "price": 16495,
+        "compareAt": 18995,
+        "images": [
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Cascade/Cascade - Low Quarter View (AI Gen).jpg",
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Cascade/Cascade - Overhead View (AI Gen).jpg"
+        ]
+      },
+      {
+        "id": "serenity",
+        "name": "Serenity",
+        "slug": "serenity",
+        "tagline": "Tranquil Luxury",
+        "capacity": 6,
+        "jets": 45,
+        "power": "40 amp",
+        "dimensions": "2.3m x 2.3m x 0.98m",
+        "waterCapacity": "1,700L",
+        "dryWeight": "445kg",
+        "features": [
+          "45 hydrotherapy jets",
+          "Zen-inspired design",
+          "Premium teak cabinet option",
+          "Champagne LED lighting",
+          "Bang & Olufsen audio",
+          "Heated backrest",
+          "Smart diagnostics",
+          "Premium filtration system",
+          "Stainless steel jets",
+          "Luxury accessories included"
+        ],
+        "highlights": [
+          "Peaceful aesthetic",
+          "Handcrafted quality",
+          "Bespoke color options",
+          "White glove installation"
+        ],
+        "price": 14995,
+        "compareAt": 17495,
+        "images": [
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Serenity/Serenity - Quarter View (AI Gen).jpg",
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Serenity/Serenity - Overhead View (AI Gen).jpg"
+        ]
+      },
+      {
+        "id": "solstice",
+        "name": "Solstice",
+        "slug": "solstice",
+        "tagline": "Year-Round Paradise",
+        "capacity": 8,
+        "jets": 52,
+        "power": "40 amp",
+        "dimensions": "2.6m x 2.6m x 1.08m",
+        "waterCapacity": "2,200L",
+        "dryWeight": "540kg",
+        "features": [
+          "52 precision hydrotherapy jets",
+          "All-season climate control",
+          "Triple insulation system",
+          "Premium Devialet audio",
+          "Dynamic LED light shows",
+          "Voice-activated controls",
+          "App control with scheduling",
+          "UV + ozone purification",
+          "Heated neck pillows",
+          "Bespoke cabinet options"
+        ],
+        "highlights": [
+          "Largest capacity",
+          "All-weather performance",
+          "Smart home ready",
+          "Ultimate entertaining"
+        ],
+        "price": 24995,
+        "compareAt": 27995,
+        "images": [
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Solstice/Solstice - Low Quarter View (AI Gen).jpg",
+          "/images/products/hot-tubs/AquaLux - Series 3 - AI Mock Up/Solstice/Solstice - Overhead View (AI Gen).jpg"
+        ]
+      }
+    ]
+  }
+]

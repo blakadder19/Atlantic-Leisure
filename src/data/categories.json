@@ -1,0 +1,114 @@
+
+[
+  {
+    "id": "hot-tubs",
+    "title": "Hot Tubs",
+    "subtitle": "Unparalleled Relaxation & Hydrotherapy",
+    "slug": "hot-tubs",
+    "heroImage": "Luxury hot tub on outdoor deck with mountain views at sunset",
+    "description": "Experience the ultimate in relaxation with our premium hot tub collection. Each model is meticulously crafted with advanced hydrotherapy jets, energy-efficient systems, and luxurious finishes.",
+    "features": [
+      "Advanced hydrotherapy jet systems",
+      "Energy-efficient heating technology",
+      "Premium acrylic shells with lifetime warranty",
+      "Smart control systems with app integration",
+      "LED mood lighting and aromatherapy",
+      "Seating for 4-7 people"
+    ],
+    "models": [
+      {
+        "name": "Brook",
+        "series": "Series One",
+        "capacity": 4,
+        "jets": 25,
+        "power": "32 amp",
+        "image": "Modern hot tub with sleek design in contemporary garden setting"
+      },
+      {
+        "name": "Calma",
+        "series": "Series Two",
+        "capacity": 7,
+        "jets": 37,
+        "power": "32 amp",
+        "image": "Large luxury hot tub with multiple seating areas"
+      },
+      {
+        "name": "Eden",
+        "series": "Series Two",
+        "capacity": 6,
+        "jets": 42,
+        "power": "40 amp",
+        "image": "Premium hot tub with mountain backdrop and modern architecture"
+      }
+    ]
+  },
+  {
+    "id": "swim-spas",
+    "title": "Swim Spas",
+    "subtitle": "Fitness Meets Luxury",
+    "slug": "swim-spas",
+    "heroImage": "Elegant swim spa with powerful jets in modern outdoor setting",
+    "description": "Combine fitness and relaxation in one stunning package. Our swim spas feature powerful current systems for swimming and aquatic exercise, plus dedicated hydrotherapy zones.",
+    "features": [
+      "Adjustable current systems for all fitness levels",
+      "Dual-zone temperature control",
+      "Integrated hydrotherapy seating",
+      "Low-impact cardiovascular training",
+      "Year-round usability",
+      "Compact footprint for any space"
+    ],
+    "models": [
+      {
+        "name": "Aspen",
+        "series": "Series Two",
+        "length": "4.5m",
+        "jets": 28,
+        "power": "32 amp",
+        "image": "Sleek swim spa with powerful current system"
+      },
+      {
+        "name": "Cascade",
+        "series": "Series Three",
+        "length": "5.5m",
+        "jets": 35,
+        "power": "40 amp",
+        "image": "Large swim spa with dual zones for exercise and relaxation"
+      }
+    ]
+  },
+  {
+    "id": "saunas",
+    "title": "Saunas",
+    "subtitle": "Traditional Wellness, Modern Design",
+    "slug": "saunas",
+    "heroImage": "Luxurious modern sauna with glass walls and ambient lighting",
+    "description": "Elevate your wellness routine with our premium sauna collection. Featuring traditional Finnish design principles with contemporary aesthetics and smart technology.",
+    "features": [
+      "Premium Canadian Hemlock or Cedar wood",
+      "Precision temperature control systems",
+      "Chromotherapy lighting options",
+      "Bluetooth audio integration",
+      "Low EMF carbon or ceramic heaters",
+      "Custom sizing available"
+    ],
+    "models": [
+      {
+        "name": "Zenith",
+        "series": "Series Three",
+        "capacity": 4,
+        "heaterType": "Carbon",
+        "power": "2.4 kW",
+        "image": "Modern sauna with sleek wood interior and glass door"
+      },
+      {
+        "name": "Serenity",
+        "series": "Series Three",
+        "capacity": 6,
+        "heaterType": "Ceramic",
+        "power": "3.6 kW",
+        "image": "Spacious luxury sauna with ambient lighting"
+      }
+    ]
+  }
+]
+  

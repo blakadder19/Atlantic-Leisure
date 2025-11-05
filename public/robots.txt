@@ -1,0 +1,21 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://luxhydroliving.com/sitemap.xml
+
+# Disallow admin areas (when implemented)
+# Disallow: /admin/
+# Disallow: /checkout/
+
+# Allow all major bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
